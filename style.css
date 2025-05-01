@@ -1,0 +1,9 @@
+*{
+  border:solid 1px red;
+}
+.navbar-nav{
+  margin-left:190px;
+}
+.container{
+  padding-top:50px;
+}
